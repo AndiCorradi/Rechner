@@ -1,0 +1,10 @@
+UserStories
+
+Titel: addieren
+Story: Als Anwender möchte ich zwei Gleitkommazahlen addieren
+Akzeptanz Kriterien: 
+- Die Software kann 2 Gleitkommazahlen zwischen -100.00 und 100.00 addieren.
+Status:
+- Implementiert
+- getestet
+- erledigt
